@@ -1,0 +1,47 @@
+* {color: white; font-family:arial}
+
+body {background-color : gray}
+a {color: black; font-size: 40pt}
+
+.subButton {
+  background: #ff002b;
+  background-image: -webkit-linear-gradient(top, #ff002b, #800c0c);
+  background-image: -moz-linear-gradient(top, #ff002b, #800c0c);
+  background-image: -ms-linear-gradient(top, #ff002b, #800c0c);
+  background-image: -o-linear-gradient(top, #ff002b, #800c0c);
+  background-image: linear-gradient(to bottom, #ff002b, #800c0c);
+  -webkit-border-radius: 34;
+  -moz-border-radius: 34;
+  border-radius: 34px;
+  -webkit-box-shadow: 4px 4px 3px #666666;
+  -moz-box-shadow: 4px 4px 3px #666666;
+  box-shadow: 4px 4px 3px #666666;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 60px;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 2px;
+  text-decoration: none;
+}
+
+.klaxButton {
+  background: #ff002b;
+  background-image: -webkit-linear-gradient(top, #ff002b, #800c0c);
+  background-image: -moz-linear-gradient(top, #ff002b, #800c0c);
+  background-image: -ms-linear-gradient(top, #ff002b, #800c0c);
+  background-image: -o-linear-gradient(top, #ff002b, #800c0c);
+  background-image: linear-gradient(to bottom, #ff002b, #800c0c);
+  -webkit-border-radius: 34;
+  -moz-border-radius: 34;
+  border-radius: 34px;
+  -webkit-box-shadow: 4px 4px 3px #666666;
+  -moz-box-shadow: 4px 4px 3px #666666;
+  box-shadow: 4px 4px 3px #666666;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 60px;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 2px;
+  text-decoration: none;
+}
+		
